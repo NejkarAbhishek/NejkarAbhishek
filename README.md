@@ -1,5 +1,5 @@
 
-![My cool animation](https://github.com/NejkarAbhishek/gif/blob/master/work.gif)
+![My cool animation](https://github.com/NejkarAbhishek/gif/blob/main/work.gif)
 # 💫 About Me:
 
 # 💻 Tech Stack:
