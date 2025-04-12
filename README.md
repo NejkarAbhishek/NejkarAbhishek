@@ -4,6 +4,8 @@
 
 ![My cool animation](https://github.com/NejkarAbhishek/gif/blob/main/work.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NejkarAbhishek&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
