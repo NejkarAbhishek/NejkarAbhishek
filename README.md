@@ -34,8 +34,8 @@
       <br>Riverpod
     </td>
       <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="SQ Lite" />
+      <br>Spring Boot
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="45" height="45" />
@@ -87,7 +87,7 @@
       <br>Postman
     </td>
        <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
        <td align="center" width="100">
@@ -103,7 +103,7 @@
       <br>VsCode
     </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+        <img src="https://skillicons.dev/icons?i=p" width="48" height="48" alt="linu" />
       <br>Linux
     </td>
      <td align="center" width="100">
