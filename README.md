@@ -4,7 +4,7 @@
 
 ![My cool animation](https://github.com/NejkarAbhishek/gif/blob/main/work.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NejkarAbhishek&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NejkarAbhishek&label=Profile%20views&color=0e75b6&style=flat" alt="NejkarAbhishek" /> </p>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -30,8 +30,8 @@
       <br>C
     </td>
    <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
-      <br>Riverpod
+        <img src="" alt="icon" width="45" height="50" />
+      <br>
     </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="SQ Lite" />
